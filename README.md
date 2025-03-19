@@ -32,8 +32,8 @@
 31. **Inequality** – non-equal mathematical relation; **nerovnost**  
 32. **Conversion** – transformation from one form to another; **převod**  
 33. **Slack form** – LP form with slack variables; **uvolněná forma**  
-34. **Feasible** – possible within given constraints; **možný (realizovatelný)**  
-35. **Feasible region** – set of all valid solutions; **oblast přípustných řešení**  
+34. **Feasible** – possible within given constraints; **přípustné řešení**  
+35. **Feasible region** – set of all valid solutions; **oblast/množina přípustných řešení**  
 36. **Hyperplane** – multi-dimensional flat surface; **nadrovina**  
 37. **A halfspace** – one side of a hyperplane; **poloprostor**  
 38. **Intersection** – common part of sets; **průnik**  
@@ -47,41 +47,40 @@
 46. **Vertex/vertices** – point(s) in a graph; **vrchol/vrcholy**  
 47. **Unique solution** – single valid answer; **jedinečné řešení**  
 48. **Optimal solution** – best possible solution; **optimální řešení**  
-49. **Minimum cost-flow problem** – network flow problem minimizing cost; **úloha minimálních nákladů toku**  
+49. **Minimum cost-flow problem** – network flow problem minimizing cost; **úloha minimálních nákladů**  
 50. **Source vertex** – starting point in a graph; **počáteční vrchol**  
 51. **Target vertex** – destination point in a graph; **cílový vrchol**  
-52. **Supply** – available quantity of goods; **zásoba**  
+52. **Supply** – available quantity of goods; **nabídka**  
 53. **Demand** – required quantity of goods; **poptávka**  
 54. **Balance constraints** – restrictions maintaining balance; **omezení rovnováhy**  
 55. **Integral optimal solution/non-integral** – whole number/non-whole number solution; **celé/necelé optimální řešení**  
 56. **A simple flow decomposition** – breaking flow into simple components; **jednoduchá dekompozice toku**  
 57. **Maxflow-mincut theorem** – theorem linking max flow & min cut; **věta o maximálním toku a minimálním řezu**  
 58. **Descendants** – elements derived from another; **potomci**  
-59. **Uncapacitated minimum-cost-flow problem** – cost-flow problem without capacity limits; **úloha minimálních nákladů toku bez kapacitního omezení**  
+59. **Uncapacitated minimum-cost-flow problem** – cost-flow problem without capacity limits; **úloha minimálních nákladů bez kapacitního omezení**  
 60. **Fractional values** – non-integer values; **zlomkové hodnoty**  
 61. **Duality** – relation between primal and dual problems; **dualita**  
 62. **Primal linear problem** – original linear problem; **primární lineární úloha**  
-63. **Dual linear problem** – related problem derived from primal; **duální lineární úloha**  
-64. **Mechanical translation** – automatic mathematical transformation; **mechanický překlad**  
+63. **Dual linear problem** – related problem derived from primal; **duální lineární úloha**    
 65. **Negating** – making opposite in sign/value; **negace**  
 66. **Negative transpose** – transposed matrix with negated values; **negativní transpozice**  
 67. **Involution** – function that is its own inverse; **involuce**  
 68. **Upper bound constraint** – maximum limit restriction; **horní omezení**  
 69. **Non-negative variable** – variable ≥ 0; **nezáporná proměnná**  
 70. **Lower bound constraint** – minimum limit restriction; **dolní omezení**  
-71. **Non-positive variable** – variable ≤ 0; **nezkladná proměnná**  
-72. **Signed incidence matrix** – matrix representing graph orientation; **podepsaná incidence matice**  
+71. **Non-positive variable** – variable ≤ 0; **nekladná proměnná**  
+72. **Incidence matrix** – matrix representing graph orientation; **Matice incidence**  
 73. **Coefficients** – numerical factors in equations; **koeficienty**  
 74. **The Fundamental Theorem of Linear Programming** – key theorem of LP; **základní věta lineárního programování**  
-75. **Weak Duality Theorem** – theorem comparing primal & dual; **věta o slabé dualitě**  
+75. **Weak Duality Theorem** – theorem comparing primal & dual with relation <=; **slabá věta o dualitě**  
 76. **Optimum objective value** – best achievable function value; **optimální hodnota cílové funkce**  
-77. **Multiply** – perform multiplication; **násobit**  
+77. **(to) Multiply** – relation noted as .,*; **násobit**  
 78. **Scalar value** – single numerical value; **skalární hodnota**  
-79. **Strong Duality Theorem** – theorem stating equality of primal & dual; **věta o silné dualitě**  
+79. **Strong Duality Theorem** – theorem stating equality of primal & dual; **silná věta o dualitě**  
 80. **Non-degenerate linear programs** – LP without degeneracy issues; **nedegenerované lineární programy**  
 81. **Standard basis vector** – basic unit vector in space; **standardní bázový vektor**  
 82. **(to) imply (sth)** – suggest logically; **implikovat**  
-83. **Strict inequality** – inequality without equality case; **ostrý nerovnost**  
+83. **Strict inequality** – inequality without equality case; **ostrá nerovnost**  
 84. **(to) intersect** – cross or meet; **protínat**  
 85. **Permuting of constraints** – reordering constraints; **permutační změna omezení**  
 86. **Inversion** – reversal of order/direction; **inverze**  
