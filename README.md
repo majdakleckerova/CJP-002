@@ -31,7 +31,7 @@
 **5.8** Comparing Sequences and Other Types .............................. 40  
 
 
-
+#### Vocab (80 - 100 slovíček)
 
 
 #### Vocab [Linear Programming]
