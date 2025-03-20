@@ -1,4 +1,31 @@
 # CJP-002
+
+#### Vocab [Python Tutorial; Release 3.7.0; Guido van Rossum and the Python development team; September 02, 2018; Python Software Foundation Email: docs@python.org]
+**URL:** <https://bugs.python.org/file47781/Tutorial_EDIT.pdf>
+**Vybraná část:** 
+**4 More Control Flow Tools 19**
+4.1 if Statements ............................................ 19
+4.2 for Statements............................................ 19
+4.3 Therange()Function ....................................... 20
+4.4 break and continue Statements,and else Clauseson Loops. . . . . . . . . . . . . . . . . . 21
+4.5 pass Statements........................................... 22
+4.6 Defining Functions.......................................... 22
+4.7 More on Defining Functions..................................... 24
+4.8 Intermezzo:Coding Style...................................... 29
+**5 Data Structures 31** 
+5.1 More on Lists ............................................ 31 
+5.2 The del statement.......................................... 35 
+5.3 Tuples and Sequences ........................................ 36 
+5.4 Sets.................................................. 37 
+5.5 Dictionaries.............................................. 38 
+5.6 Looping Techniques ......................................... 39 
+5.7 More on Conditions ......................................... 40 
+5.8 Comparing Sequences and Other Types.............................. 40
+
+
+
+
+#### Vocab [Linear Programming]
 1. **Linear Programming** – mathematical optimization technique; **lineární programování**  
 2. **Optimization problem** – problem of finding the best solution; **optimalizační úloha**  
 3. **Minimum spanning tree** – shortest-connected tree in a graph; **minimální kostra**  
