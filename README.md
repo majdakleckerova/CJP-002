@@ -32,6 +32,101 @@
 
 
 #### Vocab (80 - 100 slovíček)
+Algorithm
+Append
+Argument
+Assignment
+Boolean
+Break
+Class
+Comparison operator
+Comprehension
+Condition
+Constraint
+Constructor
+Control flow
+Data structure
+Data type
+Debugging
+Declaration
+Def (define function)
+Dictionary
+Documentation string (docstring)
+Dynamic typing
+Else
+Encapsulation
+Enumeration (enumerate)
+Exception
+Expression
+Filtering
+Float (floating-point number)
+For loop
+Format (string formatting)
+Function
+Function call
+Function parameter
+Global variable
+Identifier
+If statement
+Immutable
+Import
+Indexing
+Indentation
+Infinite loop
+Inheritance
+Initialization
+Input
+Instance
+Integer
+Iteration
+Iteratable
+Keyword argument
+Lambda function
+Len (length function)
+Lexicographical order
+Library
+List
+List comprehension
+Loop
+Loop control statement
+Method
+Mutable
+Namespace
+Nested function
+Nested loop
+Object
+Object-oriented programming (OOP)
+Operator
+Parameter
+Parsing
+Pass statement
+Placeholder
+Polymorphism
+Positional argument
+Print function
+Python
+Queue
+Raise (exception handling)
+Range function
+Recursion
+Reference
+Return statement
+Scope
+Sequence
+Set (data structure)
+Shallow copy
+Slice notation
+Sorting
+Stack
+String
+String interpolation
+Syntax error
+Tuple
+Type error
+Unpacking
+Variable
+While loop
+Zip function
 
 
 #### Vocab [Linear Programming]
